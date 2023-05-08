@@ -1,6 +1,6 @@
 import { Container, Icons, LinksNavegation } from "./styles";
-// import Contact from "../Contact";
-// import About from "../About";
+import Contact from "../Contact";
+import About from "../About";
 
 export default function Header() {
   return (
@@ -20,8 +20,8 @@ export default function Header() {
 
     </Container>      
       
-      {/* <Contact/>
-      <About/> */}
+      <About/>     
+      <Contact/>
       
       </>
   );

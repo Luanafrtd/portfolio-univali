@@ -10,4 +10,5 @@ export const Container = styled.div`
   background-repeat: no-repeat;
   background-image: url("setup-image.jpg");
   background-position: center;
+  opacity: 0.9;
 `;
